@@ -1,0 +1,62 @@
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\Orientation3D.exe
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\Orientation3D.deps.json
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\Orientation3D.runtimeconfig.json
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\Orientation3D.runtimeconfig.dev.json
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\Orientation3D.dll
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\ref\Orientation3D.dll
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\Orientation3D.pdb
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D_MarkupCompile.cache
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D_MarkupCompile.lref
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.g.resources
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.AssemblyInfoInputs.cache
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.AssemblyInfo.cs
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.csproj.CoreCompileInputs.cache
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.dll
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\ref\Orientation3D.dll
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.pdb
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.genruntimeconfig.cache
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\System.IO.Ports.dll
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.csproj.CopyComplete
+C:\Users\kelep\Downloads\Drone Project\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.csproj.AssemblyReference.cache
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\Orientation3D.exe
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\Orientation3D.deps.json
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\Orientation3D.runtimeconfig.json
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\Orientation3D.runtimeconfig.dev.json
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\Orientation3D.dll
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\ref\Orientation3D.dll
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\Orientation3D.pdb
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\System.IO.Ports.dll
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.csproj.AssemblyReference.cache
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D_MarkupCompile.cache
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D_MarkupCompile.lref
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.g.resources
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.AssemblyInfoInputs.cache
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.AssemblyInfo.cs
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.csproj.CoreCompileInputs.cache
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.csproj.CopyComplete
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.dll
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\ref\Orientation3D.dll
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.pdb
+C:\Users\kelep\OneDrive\Desktop\test\Orientation3D\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.genruntimeconfig.cache
