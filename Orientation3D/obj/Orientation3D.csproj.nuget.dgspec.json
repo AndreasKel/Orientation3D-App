@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kelep\\Downloads\\Orientation3D-App-main\\Orientation3D\\Orientation3D.csproj": {}
+    "C:\\Users\\kelep\\Downloads\\test1\\Orientation3D\\Orientation3D.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kelep\\Downloads\\Orientation3D-App-main\\Orientation3D\\Orientation3D.csproj": {
+    "C:\\Users\\kelep\\Downloads\\test1\\Orientation3D\\Orientation3D.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kelep\\Downloads\\Orientation3D-App-main\\Orientation3D\\Orientation3D.csproj",
+        "projectUniqueName": "C:\\Users\\kelep\\Downloads\\test1\\Orientation3D\\Orientation3D.csproj",
         "projectName": "Orientation3D",
-        "projectPath": "C:\\Users\\kelep\\Downloads\\Orientation3D-App-main\\Orientation3D\\Orientation3D.csproj",
+        "projectPath": "C:\\Users\\kelep\\Downloads\\test1\\Orientation3D\\Orientation3D.csproj",
         "packagesPath": "C:\\Users\\kelep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kelep\\Downloads\\Orientation3D-App-main\\Orientation3D\\obj\\",
+        "outputPath": "C:\\Users\\kelep\\Downloads\\test1\\Orientation3D\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kelep\\AppData\\Roaming\\NuGet\\NuGet.Config",

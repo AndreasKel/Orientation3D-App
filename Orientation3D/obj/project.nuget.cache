@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cO/b7SUteXeILv64C4uBUf5O+ePmldWeY35HPVLk0fy8/Vhlsj1LWpWfwZKF4Xs2UBep1vbnAgYuV5g9xYEcaw==",
+  "dgSpecHash": "qvnO628cUhY2cyHj1RTUu1wc3DgpBZ7egEDdIYyXV+lvVGsAZuvxamaxKummZiyZ7m8RTJmQRzg08PlH/hY67g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kelep\\Downloads\\Orientation3D-App-main\\Orientation3D\\Orientation3D.csproj",
+  "projectFilePath": "C:\\Users\\kelep\\Downloads\\test1\\Orientation3D\\Orientation3D.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kelep\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\kelep\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
