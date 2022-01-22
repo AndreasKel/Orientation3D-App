@@ -28,3 +28,4 @@ C:\Users\kelep\Downloads\test1\Orientation3D\obj\Debug\net5.0-windows\Orientatio
 C:\Users\kelep\Downloads\test1\Orientation3D\obj\Debug\net5.0-windows\ref\Orientation3D.dll
 C:\Users\kelep\Downloads\test1\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.pdb
 C:\Users\kelep\Downloads\test1\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.genruntimeconfig.cache
+C:\Users\kelep\Downloads\test1\Orientation3D\obj\Debug\net5.0-windows\Orientation3D.csproj.AssemblyReference.cache
