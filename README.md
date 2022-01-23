@@ -9,16 +9,16 @@ This app uses data from an accelerometer and a gyroscope to estimate the current
 
 ## Platform
 
-This application was created using Windows Presentation Foundation (WPF) as part of .Net framework. Therefore, it only runs on Windows.
+This application was created using Windows Presentation Foundation (WPF) as part of the .Net framework. Therefore, it only runs on Windows.
 
 ## Communication
 
-Serial port communication is used to receive data from a device connected with the support of SerialPort class. The default sample rate that is used for the calculations is 0.015 seconds, as specified on line 27 on MainWindow.xaml.cs.
->The device sending the data must use a string format as the one below:\
+Serial port communication is used to receive data from a device connected with the support of the SerialPort class. The default sample rate that is used for the calculations is 0.015 seconds, as specified on line 27 of MainWindow.xaml.cs.
+>The device sending the data must use a string format like the one below:\
 "MPUdata"+ " " + gForceX + " " + gForceY + " " + gForceZ + " " + gyroX + " " + gyroY + " " + gyroZ +"\n"
 
 *Where*:
-* MPUdata: It's an arbitary string at the beginning. It can be any other text.
+* MPUdata: It's an arbitrary string at the beginning. It can be any other text.
 * gForceX: It's the gravitational force equivalent on X-axis, that causes a perception of weight, with a g-force of 1 g equal to the conventional value of gravitational acceleration on Earth, g, of about 9.8 m/s2. 
 * gForceY: It's the gravitational force equivalent on Y-axis.
 * gForceZ: It's the gravitational force equivalent on Z-axis.
@@ -45,7 +45,7 @@ void loop()
 
 * To launch the app, run the executable file located in Orientation3D > bin > Debug > net5.0-windows > Orientation3D.exe
 * Or launch the application using Visual Studio + Start with out Debugging (Ctrl + F5) 
-* As the application is running specify the port name (default: COM3).
+* While the application is running, specify the port name (default: COM3).
 * Select the type of filter. (Kalman Filter, Kalman Filter with Bias or Complementary Filter)
-* Select the Baud Rate
+* Select a Baud Rate. (It needs to match the baud rate of the device that is transmitting the data)
 * Click 'Connect'. The orientation of the airplane will change depending on the data and the quaternions (format: qw, qx, qy, qz) are displayed on the left-hand side of the app
