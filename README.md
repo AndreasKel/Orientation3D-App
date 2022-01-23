@@ -3,7 +3,9 @@
 
 This app uses data from an accelerometer and a gyroscope to estimate the current orientation using quaternions.
 
-![App screenshot](Orientation3D-App/Images/Orientation3D-Screenshot.PNG)
+![App screenshot](https://github.com/Electrobird-Automation/Orientation3D-App/blob/main/Images/Orientation3D-Screenshot.PNG?raw=true)
+
+
 
 ## Platform
 
