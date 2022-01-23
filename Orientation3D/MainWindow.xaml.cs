@@ -1,12 +1,12 @@
 ﻿//Electrobird
 //(c)Copyright 2022 All Rights Reserved
-//-----------------------------------------------------------------------------------------------------------------------------------
+//-------------------------------------------------------------------------------------------------------------------------------
 //license:          MIT
 //file name:        MainWindow.xaml.cs
 //language:         C#
 //environment:      .Net Core
-//functionality:    uses data from an accelerometer and a gyroscope to estimate and visualise the current orientation with quaternions
-//====================================================================================================================================
+//functionality:    uses data from an accelerometer and a gyroscope to estimate and visualise the current orientation of a device
+//================================================================================================================================
 
 using System;
 using System.Windows;
