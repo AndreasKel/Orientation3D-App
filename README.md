@@ -1,16 +1,16 @@
 # Orientation3D
 ## Overview
----
+
 This app uses data from an accelerometer and a gyroscope to estimate the current orientation using quaternions.
 
-![App screenshot](Orientation3D-App/Images/Screenshot.PNG)
+![App screenshot](Orientation3D-App/Images/Orientation3D-Screenshot.PNG)
 
 ## Platform
----
+
 This application was created using Windows Presentation Foundation (WPF) as part of .Net framework. Therefore, it only runs on Windows.
 
 ## Communication
----
+
 Serial port communication is used to receive data from a device connected with the support of SerialPort class. The default sample rate that is used for the calculations is 0.015 seconds, as specified on line 27 on MainWindow.xaml.cs.
 >The device sending the data must use a string format as the one below:\
 "MPUdata"+ " " + gForceX + " " + gForceY + " " + gForceZ + " " + gyroX + " " + gyroY + " " + gyroZ +"\n"
@@ -40,7 +40,7 @@ void loop()
 }
 ```
 ## Using Orientation3D
----
+
 * To launch the app, run the executable file located in Orientation3D > bin > Debug > net5.0-windows > Orientation3D.exe
 * Or launch the application using Visual Studio + Start with out Debugging (Ctrl + F5) 
 * As the application is running specify the port name (default: COM3).
