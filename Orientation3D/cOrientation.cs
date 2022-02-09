@@ -1,5 +1,4 @@
-﻿//Electrobird
-//(c)Copyright 2022 All Rights Reserved
+﻿//Author: AndreasKel
 //-----------------------------------------------------------------------------------------------------------------------------------
 //license:          MIT
 //file name:        cOrientation.cs

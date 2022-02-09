@@ -1,12 +1,11 @@
-﻿//Electrobird
-//(c)Copyright 2022 All Rights Reserved
-//-------------------------------------------------------------------------------------------------------------------------------
+﻿//Author: AndreasKel
+//------------------------------------------------------------------------------------------------------------
 //license:          MIT
 //file name:        MainWindow.xaml.cs
 //language:         C#
 //environment:      .Net Core
-//functionality:    uses data from an accelerometer and a gyroscope to estimate and visualise the current orientation of a device
-//================================================================================================================================
+//functionality:    uses data from an accelerometer and a gyroscope to estimate and visualise the orientation
+//============================================================================================================
 
 using System;
 using System.Windows;
